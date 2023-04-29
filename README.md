@@ -22,4 +22,4 @@ En este proyecto utilizaremos Riverpod para manejar la inyección de dependencia
 
 Puedes descargar la aplicación desde este enlace:
 
-[Super Hero App](https://drive.google.com/file/d/1yt40boxdDssUju0ljAWGwqmU41i2mW9n/view?usp=sharing)
+[Contact App](https://drive.google.com/file/d/1yt40boxdDssUju0ljAWGwqmU41i2mW9n/view?usp=sharing)
